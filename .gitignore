@@ -1,0 +1,4 @@
+/target
+/disk-img*
+*.bin
+.DS_Store
